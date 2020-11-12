@@ -27,7 +27,7 @@
 
 ## 구조
 ------------
-+ Breast_cancer_data : 훈련 데이터 집합 (Training Data set)
-+ Sample_test_data : 테스트 데이터 집합(Test Data set)
-+ breastCancerClassification_dayoni : 9입력 2클래스 분류기
-+ parameter : 비용함수인 CEE의 매개변수의 값
++ Breast_cancer_data.txt : 훈련 데이터 집합 (Training Data set)
++ Sample_test_data.txt : 테스트 데이터 집합(Test Data set)
++ breastCancerClassification_dayoni.py : 9입력 2클래스 분류기
++ parameter.txt : 비용함수인 CEE의 매개변수의 값
