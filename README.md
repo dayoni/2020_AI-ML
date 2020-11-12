@@ -1,6 +1,4 @@
 # 2020_AI-ML 프로젝트 개요
-------------
-본 프로젝트는 한국산업기술대학교 학부과정 중 **_<인공지능 설계 및 실습>**_ 과목에서 진행한 프로젝트입니다.
 
 ## 데이터 집합 소개 및 출처
 ------------
@@ -21,10 +19,10 @@
 ------------
 + 모델의 설계 및 구조와 흐름 
 	+ 본 프로젝트는 9입력 2클래스의 분류를 위한 시스템을 설계하는 것이 목적
-	1. 모델 : 시그모이드 함수(Sigmoid function)를 이용한 로지스틱 회귀 모델(Logistic-Regression)
-	2. 비용함수 : 교차 엔트로피 오차(CEE : Cross-Entropy_Error)
-	3. 최적화 : 켤레 경사 하강법(conjugate gradient method)
-	4. 검증 : K-Fold 교차검증(K-Fold Cross Validation)
+		1. 모델 : 시그모이드 함수(Sigmoid function)를 이용한 로지스틱 회귀 모델(Logistic-Regression)
+		2. 비용함수 : 교차 엔트로피 오차(CEE : Cross-Entropy_Error)
+		3. 최적화 : 켤레 경사 하강법(conjugate gradient method)
+		4. 검증 : K-Fold 교차검증(K-Fold Cross Validation)
 
 ## 구조
 ------------
